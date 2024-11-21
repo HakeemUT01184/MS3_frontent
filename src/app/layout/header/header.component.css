@@ -1,0 +1,31 @@
+
+
+.app-icon > img {
+    padding-top: 20px;
+    height:5rem;
+    padding-left: 20px;
+
+   
+}
+.app-icon{
+    display: flex;        
+    height: 100%;   
+    /* background-color: rgba(171, 195, 187, 0.249);  */
+}
+.heading{
+    font-size:50px;
+    padding-right: 10px;
+}
+
+
+/* 
+.search-icon{
+    margin-left: -35px!important;
+} */
+.form-inline{
+    margin-left:-10px;
+}
+.py-5{
+    background-color: rgba(84, 112, 127, 0.28);
+}
+
